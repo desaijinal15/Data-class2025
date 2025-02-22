@@ -1,2 +1,2 @@
 # Data-class2025
-DataAnaltics
+Data Analtics
